@@ -72,7 +72,7 @@ async def _(e):
                 caption1 =f"{name} GAND FATT GYII KYA HIJRE KI OLAAD"
                 caption2 =f"{name} **RANDI KE PILLLE**"
                 caption3 =f" {name} 𝑪𝑯𝑯𝑯𝑯𝑯𝑼𝑼𝑼𝑼𝑼𝑫𝑫𝑫𝑫 𝑮𝒀𝑨𝑨𝑨𝑨𝑨𝑨𝑨 𝑳𝑶𝑽𝑽𝑽𝑽𝑽𝑫𝑫𝑬𝑬 𝑻𝑼𝑼𝑼𝑼"
-                caption4 =f" {name} 𝕋𝕖𝕣𝕚 𝕄𝕒𝕒 𝕂𝕚 𝕏𝕙𝕠𝕥 𝕓𝕒𝕕𝕙𝕧𝕖"
+                caption4 =f" {name} 𝕋𝕖𝕣𝕚 𝕄𝕒𝕒 𝕞𝕒𝕣 𝔾𝕐𝕀 𝕊ℍ𝔸𝕌ℝ𝕐𝔸 𝕊𝔼 ℍ𝔸ℍ𝔸ℍ𝔸"
                 caption5 =f"{name} **ISKE MAAKI CHUTT LELO FREE FULL NIGHT**"
                 caption6 =f" {name} __TERE MAAKI CHUTT MASTT SOFT SOFT HE__ 🤤"
                 caption7 =f"# {name} TERE MAAKI CHUT ME MERAA LUNDD"
