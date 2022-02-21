@@ -99,7 +99,7 @@ async def _(e):
                 caption28 =f"😂"
                 caption29 =f"__EK RUPAY KI PEPSI {name} KI NAANI SEXYY__"
                 caption30 =f"{name} **ISKI BHEN MERI PERSONAL HE MENE BOHOT CHODAA HE USKO__ \n\n __DM {name} FOR PERSONAL RANDI__"
-                caption30 =f" TERA
+                caption30 =f" TERa
                 caption30 =f" RIAL
                 caption30 =f" PAPA
                  caption30 =f" SHAURYA
