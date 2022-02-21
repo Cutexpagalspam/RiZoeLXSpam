@@ -114,7 +114,7 @@ async def _(e):
                 caption30 =f" TERI MA SHAURYA KI RAKHAIL🤣
                 caption30 =f" RANDU
                 caption30 =f" PIL
-                caption30 =f" GYA
+                caption30 =f" GY
                 caption30 =f" 🤣
                 caption30 =f" SHAURYA
                 caption30 =f" NE 
