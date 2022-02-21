@@ -69,18 +69,18 @@ async def _(e):
             else:
                 c = a.first_name
                 name = f"[{c}](tg://user?id={g})"
-                caption1 =f"{name} GAND FATT GYII KYA HIJRE KI OLAAD"
-                caption2 =f"{name} **RANDI KE PILLLE**"
-                caption3 =f" {name} 𝑪𝑯𝑯𝑯𝑯𝑯𝑼𝑼𝑼𝑼𝑼𝑫𝑫𝑫𝑫 𝑮𝒀𝑨𝑨𝑨𝑨𝑨𝑨𝑨 𝑳𝑶𝑽𝑽𝑽𝑽𝑽𝑫𝑫𝑬𝑬 𝑻𝑼𝑼𝑼𝑼"
+                caption1 =f"{name} GAND FATT GYII KYA HIJRE KI OLAAD TSF U R RIAL DAD"
+                caption2 =f"{name} **RANDI KE PILLLE TSF SE GAND MARVA LI**"
+                caption3 =f" {name} 𝑪𝑯𝑯𝑯𝑯𝑯𝑼𝑼𝑼𝑼𝑼𝑫𝑫𝑫𝑫 𝑮𝒀𝑨𝑨𝑨𝑨𝑨𝑨𝑨 𝑳𝑶𝑽𝑽𝑽𝑽𝑽𝑫𝑫𝑬𝑬 𝑻𝑼𝑼 𝑺𝑯𝑨𝑼𝑹𝒀𝑨 𝑩𝑨𝑨𝑷 𝑺𝑬"
                 caption4 =f" {name} 𝕋𝕖𝕣𝕚 𝕄𝕒𝕒 𝕞𝕒𝕣 𝔾𝕐𝕀 𝕊ℍ𝔸𝕌ℝ𝕐𝔸 𝕊𝔼 ℍ𝔸ℍ𝔸ℍ𝔸"
-                caption5 =f"{name} **ISKE MAAKI CHUTT LELO FREE FULL NIGHT**"
-                caption6 =f" {name} __TERE MAAKI CHUTT MASTT SOFT SOFT HE__ 🤤"
-                caption7 =f"# {name} TERE MAAKI CHUT ME MERAA LUNDD"
+                caption5 =f"{name} **ISKE MAAKI CHUTT LELO FREE FULL NIGHT SHAURYA NE GAND MAR DI ISKI MA.KI**"
+                caption6 =f" {name} __TERE MAAKI CHUTT MASTT SOFT SOFT HE __ 🤤"
+                caption7 =f"# {name} TERE MAAKI CHUT ME SHAURYA LUNDD"
                 caption8 =f"{name} **RAANDD KAA PILLAAA**"
-                caption9 =f"{name} 𝙄𝙎𝙆𝙄 𝘽𝙃𝙀𝙉 𝙈𝙀𝙍𝘼 𝙇𝙐𝙉𝘿 𝘾𝙃𝙊𝙊𝙎𝙏𝙄𝙄 𝙃E"
-                caption10 =f"{name} __AGAYA SWADH__"
+                caption9 =f"{name} 𝙄𝙎𝙆𝙄 𝘽𝙃𝙀𝙉 𝙈𝙀𝙍𝘼 𝙇𝙐𝙉𝘿 𝘾𝙃𝙊𝙊𝙎𝙏𝙄𝙄 𝙃E MERA"
+                caption10 =f"{name} __PIL GYA __"
                 caption11 =f"{name} **TERI MAAA**"
-                caption12 =f"**MERE SE**"
+                caption12 =f"**SHAURYA SE**"
                 caption13 =f"**Rozz CHUDTII**"
                 caption14 =f"__Haiii__"
                 caption15 =f"{name} TERE BHEN KO CHODU"
@@ -92,13 +92,37 @@ async def _(e):
                 caption21 =f"{name} 𝗧𝗘𝗥𝗜 𝗠𝗔𝗔 𝗠𝗘𝗥𝗘 𝗟𝗨𝗡𝗗 𝗟𝗘 𝗡𝗔𝗖𝗛𝗧𝗜 𝗛𝗘"
                 caption22 =f"🤤"
                 caption23 =f"{name} __TERI MAA MST ARAAM DETI HE__🤤🤤"
-                caption24 =f"{name} __KE BHEN KI CHUT LELO FULL NIGHT FREEE__"
+                caption24 =f"{name} __GALI GALI ME SHOR HAI SHAURYA ISKA RIAL DAD HAI__"
                 caption25 =f"{name} __KI BHEN RANDIII__"
-                caption26 =f"{name} __ISKE BHEN MST MARI RANDI__ 🤤🤤"
+                caption26 =f"{name} __ISKE BHEN MST MARI RAND SHAURYA KO DETI ROJ GAND__ 🤤🤤"
                 caption27 =f"😂🖕🤣"
                 caption28 =f"😂"
                 caption29 =f"__EK RUPAY KI PEPSI {name} KI NAANI SEXYY__"
                 caption30 =f"{name} **ISKI BHEN MERI PERSONAL HE MENE BOHOT CHODAA HE USKO__ \n\n __DM {name} FOR PERSONAL RANDI__"
+                caption30 =f" TERA
+                caption30 =f" RIAL
+                caption30 =f" PAPA
+                 caption30 =f" SHAURYA
+                caption30 =f" RANDIKE
+                caption30 =f" BACHHE
+                caption30 =f" DESI
+                caption30 =f" DESI CHAKKE
+                caption30 =f" GABD
+                caption30 =f" DE
+                caption30 =f" TATE
+                caption30 =f" SHAURYA ON FIRE💋🔥
+                caption30 =f" TERI MA SHAURYA KI RAKHAIL🤣
+                caption30 =f" RANDU
+                caption30 =f" PIL
+                caption30 =f" GYA
+                caption30 =f" 🤣
+                caption30 =f" SHAURYA
+                caption30 =f" NE 
+                caption30 =f" MAR 
+                caption30 =f" LI
+                caption30 =f" TERI
+                caption30 =f" GAND
+                caption30 =f" HAHAHAHAHAHAHAHAAH
                 fuk = e.chat_id
                 async with e.client.action(fuk, "typing"):
                         await e.client.send_message(fuk, caption1)
