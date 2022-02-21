@@ -57,11 +57,11 @@ async def _(e):
         rizoel = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
             bc = rizoel[0]
-            text = "Joining..."
+            text = "𝐉𝐀 𝐑𝐇𝐀 𝐒𝐇𝐀𝐔𝐑𝐘𝐀 𝐁𝐇𝐀𝐈🙂..."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("Joined Successfully ✅")
+                await event.edit("𝐏𝐀𝐇𝐔𝐂𝐇 𝐆𝐘𝐀 𝐒𝐇𝐀𝐔𝐑𝐘𝐀 𝐁𝐒𝐃𝐊 𝐈 𝐌𝐄𝐀𝐌 𝐁𝐇𝐀𝐈🙂")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -175,11 +175,11 @@ async def _(e):
         if len(e.text) > 7:
             bc = rizoel[0]
             bc = int(bc)
-            text = "Leaving....."
+            text = "𝐉𝐀 𝐑𝐇𝐀 𝐇𝐔 𝐌𝐀𝐑𝐓𝐄 𝐊𝐘𝐔 𝐇𝐎🙂....."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("Succesfully Left ☑️")
+                await event.edit("𝐂𝐇𝐀𝐋𝐄 𝐆𝐘𝐄 𝐊𝐇𝐔𝐒 𝐒𝐇𝐀𝐔𝐑𝐘𝐀 𝐁𝐇𝐀𝐈🙂")
             except Exception as e:
                 await event.edit(str(e))   
         else:
